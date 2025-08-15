@@ -1,0 +1,4 @@
+${trialNo};${internalName};${externalName};${industry};${noEmployees};${address};${city};${state}
+1;Bank;Nova Bank;Banking;107267;Rudolph Av. #734;Yokohama;Kanagawa
+2;Electricity;Electrify;Energy;32900;Sunset St. #2133;Guadalajara;Jalisco
+3;Internet;Netcom;Communication;62310;Orchid St. #221;Ilmenau;Thüringen
