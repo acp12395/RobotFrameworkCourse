@@ -1,0 +1,1 @@
+pabot --processes 2 --outputdir Reports ..\Exercise1\Exercise1.robot ..\Exercise2\Exercise2.robot
