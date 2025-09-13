@@ -65,6 +65,6 @@ DELETE request test
     ${code}=        convert to string    ${response.status_code}
     should be equal    ${code}    200
 
-    ${response}=    DELETE On Session    Session_DELETE    /objects/${id}    json=&{body}    headers=&{header}
+    ${response}=    DELETE On Session    Session_DELETE    /objects/${id}   headers=&{header}
     ${code}=        convert to string    ${response.status_code}
     should be equal    ${code}    200
